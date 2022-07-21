@@ -10,7 +10,7 @@ body {
     padding: 0px;
 }
 
-/* --- Banner style --- */
+
 header {
     width: 100%;
     height: 100%;
@@ -570,7 +570,7 @@ nav a {
     }
 }
 
-/* ------- Media Query for all kinds of phone  ------- */
+/* ------- Media Query or all kinds of phone  ------- */
 
 @media only screen and (max-width: 688px) {
     * {
@@ -777,21 +777,21 @@ nav a {
         padding: 10px;
     }
 
-    #fb {
-        font-size: 30px;
-        color: skyblue;
+    #facebook {
+        font-size: 32px;
+        color: rgb(66, 103, 178);
         padding: 5px;
     }
 
     #insta {
-        font-size: 30px;
-        color: rgb(235, 45, 108);
+        font-size: 32px;
+        color: rgb(225, 48, 108);
         padding: 5px;
     }
 
     #twitter {
-        font-size: 30px;
-        color: skyblue;
+        font-size: 32px;
+        color: rgb(77, 191, 236);
         padding: 5px;
     }
 
