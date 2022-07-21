@@ -311,14 +311,14 @@ nav a {
     }
 
     .live {
-        background-color: #DD0000;
+        background-color: #f80505;
         justify-content: center;
         align-items: center;
         padding: 7px 15px;
         border-radius: 5px;
         color: white;
         font-size: 16px;
-        margin-top: 15px;
+        margin-top: 16px;
         margin-left: 90px;
     }
 
