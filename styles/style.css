@@ -570,7 +570,7 @@ nav a {
     }
 }
 
-/* ------- Media Query for mobile ------- */
+/* ------- Media Query for all kinds of phone  ------- */
 
 @media only screen and (max-width: 688px) {
     * {
@@ -795,7 +795,7 @@ nav a {
         padding: 5px;
     }
 
-    /* Upcoming match pages styles here  */
+    /*  pages styles here  */
 
 
     .upcoming-match {
